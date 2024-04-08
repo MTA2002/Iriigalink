@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1084892097724",
+    "project_id": "irriga-link",
+    "storage_bucket": "irriga-link.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084892097724:android:42a1932b467d57bacd34b9",
+        "android_client_info": {
+          "package_name": "com.example.irrigalink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJyvj6E00AenIMJB8jLAhg03VBE2qY_dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
